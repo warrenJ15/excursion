@@ -25,3 +25,9 @@ body {
   font-size: 21px;
   color: gray;
 }
+
+.footer-copyright {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
